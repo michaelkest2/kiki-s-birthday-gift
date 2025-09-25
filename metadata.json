@@ -1,0 +1,5 @@
+{
+  "name": "Panda's Birthday",
+  "description": "A game where a panda navigates a maze, collecting cupcakes to gain strength and avoid broccoli. The goal is to become strong enough to open a safe and get a special 28th birthday gift!",
+  "requestFramePermissions": []
+}
